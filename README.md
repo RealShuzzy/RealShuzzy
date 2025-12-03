@@ -6,7 +6,7 @@
 
  💧 **Developer** and **Maintainer** of [**ShuzzyOS**](https://shuzzy.de)
 
- 🐧 Linux **Enthusiast, I use <img src="https://github.com/RealShuzzy/shuzzyos-webserver/blob/main/public/arch.png" alt="My screenshot" width="14"> btw.
+ 🐧 Linux **Enthusiast**, I use <img src="https://github.com/RealShuzzy/shuzzyos-webserver/blob/main/public/arch.png" alt="My screenshot" width="14"> btw.
 
 
 
