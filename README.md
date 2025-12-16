@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 
-<h1 align="center">👋 Hey! I'm Shuzzy</h1> 
+<h1 align="center">👋 Hᴇʏ! I'ᴍ Sʜᴜᴢᴢʏ 👋</h1> 
 
  🛠️ I am the **Developer** and **Maintainer** of [**ShuzzyOS**](https://shuzzy.de)
 
@@ -15,7 +15,7 @@
 <!-- Tech Stack & My Creations -->
 
   <!-- Left : Tech Stack -->
-  <h2 align="center">Tech Stack & My Creations</h2> 
+  <h2 align="center">🧪 Tᴇᴄʜ Sᴛᴀᴄᴋ & ᴍʏ Cʀᴇᴀᴛɪᴏɴs 🧪</h2> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" width="50%">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -26,13 +26,13 @@
   
   <br/>
   
-  Linux Distro [ShuzzyOS](https://github.com/RealShuzzy/ShuzzyOS)
+  🐧 Linux Distro [ShuzzyOS](https://github.com/RealShuzzy/ShuzzyOS)
   
-  Linux Packages & Repository [Repository](https://github.com/RealShuzzy/shuzzyos-arch-repo)
+  📦 Linux Packages & Repository [Repository](https://github.com/RealShuzzy/shuzzyos-arch-repo)
   
-  NextJS [Website](https://shuzzy.de) | [(Git Project)](https://github.com/RealShuzzy/shuzzyos-webserver)
+  🌐 NextJS [Website](https://shuzzy.de) | [(Git Project)](https://github.com/RealShuzzy/shuzzyos-webserver)
   
-  React App [Nexarion-Finance](https://github.com/RealShuzzy/Nexarion-Finance)
+  💸 React App [Nexarion-Finance](https://github.com/RealShuzzy/Nexarion-Finance)
 
   <br/>
 
@@ -40,7 +40,7 @@
 
 <!-- Stats -->
 
-<h2 align="center">📊 Stats 📊</h2> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2> 
 
 <br/>
 
@@ -61,7 +61,7 @@
 </table>
 
   <!--Contribution Graph-->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealShuzzy&bg_color=282a36&&color=bd93f9&line=bd93f9&point=ffffff&area=false&hide_border=false" border-radius="15">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealShuzzy&bg_color=282a36&&color=ffffff&line=dc6386&point=79dafa&area=false&hide_border=true" border-radius="15">
 
 <!-- Footer -->
 
