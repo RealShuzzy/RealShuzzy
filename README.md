@@ -1,38 +1,49 @@
+<!-- Header -->
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#bg93f9"  />
 </div>
+
+<!-- About Me -->
 
 <h1 align="center">👋 Hey! I'm Shuzzy</h1> 
 
  🛠️ I am the **Developer** and **Maintainer** of [**ShuzzyOS**](https://shuzzy.de)
 
  🐧 I am a **Linux Enthusiast**, I use Arch btw.
- 
-<h2 align="center">Tech Stack & My Creations</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" width="50%">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- Tech Stack & My Creations -->
 
-Linux Distro [ShuzzyOS](https://github.com/RealShuzzy/ShuzzyOS)
+  <!-- Left : Tech Stack -->
+  <h2 align="center">Tech Stack & My Creations</h2> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" width="50%">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  </picture>
+  
+  <!-- Right : My Creations -->
+  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  
+  Linux Distro [ShuzzyOS](https://github.com/RealShuzzy/ShuzzyOS)
+  
+  Linux Packages & Repository [Repository](https://github.com/RealShuzzy/shuzzyos-arch-repo)
+  
+  NextJS [Website](https://shuzzy.de) | [(Git Project)](https://github.com/RealShuzzy/shuzzyos-webserver)
+  
+  React App [Nexarion-Finance](https://github.com/RealShuzzy/Nexarion-Finance)
+  
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
-Linux Packages & Repository [Repository](https://github.com/RealShuzzy/shuzzyos-arch-repo)
-
-NextJS [Website](https://shuzzy.de) | [(Git Project)](https://github.com/RealShuzzy/shuzzyos-webserver)
-
-React App [Nexarion-Finance](https://github.com/RealShuzzy/Nexarion-Finance)
-
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- Stats -->
 
 <h2 align="center">Stats</h2> 
 
@@ -40,19 +51,11 @@ React App [Nexarion-Finance](https://github.com/RealShuzzy/Nexarion-Finance)
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
+      <img src="https://streak-stats.demolab.com?user=RealShuzzy&theme=dracula&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200](https://github-readme-stats.vercel.app/api?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" />
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RealShuzzy&theme=dracula&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
@@ -60,7 +63,7 @@ React App [Nexarion-Finance](https://github.com/RealShuzzy/Nexarion-Finance)
 
 <img src="https://github-readme-stats.vercel.app/api?username=theflamebe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 <img src="https://streak-stats.demolab.com?user=theflamebe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
+![RealShuzzy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
@@ -71,9 +74,7 @@ React App [Nexarion-Finance](https://github.com/RealShuzzy/Nexarion-Finance)
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealShuzzy&theme=dracula)
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Firacode+Nerd+Font&size=35&color=bd93f9&center=true&vCenter=true&width=1000&pause=1000&lines=Thank+you+for+visiting!+👍" />
-</h3>
+<!-- Footer -->
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#bg93f9"  />
