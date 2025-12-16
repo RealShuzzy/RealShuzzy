@@ -76,23 +76,23 @@
 <div align="center">
   
   <a href="mailto:samirvonhansen2016@gmail.com" target="_blank">
-    <img src="./gmail.png" width=50 height=50 alt="samirvonhansen2016@gmail.com" style="margin-bottom: 5px;" />
+    <img src="./gmail.png" width=50 height=50 alt="samirvonhansen2016@gmail.com"/>
   </a>
   
   <a href="https://x.com/RealShuzzy" target="_blank">
-    <img src="./twitter.png" width=50 height=50 alt="RealShuzzy" style="margin-bottom: 5px;" />
+    <img src="./twitter.png" width=50 height=50 alt="RealShuzzy"/>
   </a>
   
   <a href="https://www.instagram.com/realshuzzy" target="_blank">
-    <img src="./instagram.png" width=50 height=50 alt="realshuzzy" style="margin-bottom: 5px;" />
+    <img src="./instagram.png" width=50 height=50 alt="realshuzzy"/>
   </a>
   
   <a href="https://www.github.com/RealShuzzy" target="_blank">
-    <img src="./github.png" width=50 height=50 alt="RealShuzzy" style="margin-bottom: 5px;" />
+    <img src="./github.png" width=50 height=50 alt="RealShuzzy"/>
   </a>
   
   <a href="https://www.linkedin.com/in/samir-von-hansen-189a70260/" target="_blank">
-    <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+    <img src="./linkedin.png" width=50 height=50 alt="linkedin"/>
   </a>
   
 </div>
