@@ -8,6 +8,8 @@
 
 <h1 align="center">👋 Hᴇʏ! I'ᴍ Sʜᴜᴢᴢʏ 👋</h1> 
 
+<br/>
+
  🛠️ **Developer** and **Maintainer** of [**ShuzzyOS**](https://shuzzy.de)
 
  🐧 **Linux Enthusiast**, I use Arch btw.
