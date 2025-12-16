@@ -42,7 +42,9 @@
 
 <!-- Stats -->
 
-<h2 align="center">Stats</h2> 
+<h2 align="center">📊 Stats 📊</h2> 
+
+<br/>
 
 <table width="100%">
   <tr>
@@ -61,7 +63,7 @@
 </table>
 
   <!--Contribution Graph-->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealShuzzy&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealShuzzy&bg_color=282a36&&color=bd93f9&line=bd93f9&point=ffffff&area=false&hide_border=false" border-radius="15">
 
 <!-- Footer -->
 
