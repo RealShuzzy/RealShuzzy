@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#bg93f9"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#bg93f9"  />
 </div>
 
 <!-- About Me -->
@@ -37,8 +37,6 @@
   <br/>
 
   ![RealShuzzy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-  
-  <br/>
 
 <!-- Stats -->
 
@@ -68,5 +66,5 @@
 <!-- Footer -->
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#bg93f9"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#bg93f9"  />
 </div>
