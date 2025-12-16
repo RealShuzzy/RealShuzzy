@@ -6,7 +6,7 @@
 
 <!-- About Me -->
 
-<h1 align="center">👋 Hᴇʏ! I'ᴍ Sʜᴜᴢᴢʏ 👋</h1> 
+<h2 align="center">👋 Hᴇʏ! I'ᴍ Sʜᴜᴢᴢʏ 👋</h2> 
 
 <br/>
 
