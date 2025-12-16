@@ -10,11 +10,11 @@
 
 <br/>
 
- 🛠️ **Developer** and **Maintainer** of [**ShuzzyOS**](https://shuzzy.de)
+ 🛠️ **Developer and Maintainer of [ShuzzyOS](https://shuzzy.de)**
 
- 🐧 **Linux Enthusiast**, I use Arch btw.
+ 🐧 **Linux Enthusiast, I use Arch btw.**
 
- 🖥️ IT specialist for system integration
+ 🖥️ **IT Specialist for System Integration**
 
 <!-- Tech Stack & My Creations -->
 
@@ -30,17 +30,17 @@
   
   <br/>
   
-  🐧 Linux Distro [ShuzzyOS](https://github.com/RealShuzzy/ShuzzyOS)
+  🐧 **Linux Distro [ShuzzyOS](https://github.com/RealShuzzy/ShuzzyOS)**
   
-  📦 Linux Packages & Repository [Repository](https://github.com/RealShuzzy/shuzzyos-arch-repo)
+  📦 **Linux Packages & Repository [Repository](https://github.com/RealShuzzy/shuzzyos-arch-repo)**
   
-  🌐 NextJS [Website](https://shuzzy.de) | [(Git Project)](https://github.com/RealShuzzy/shuzzyos-webserver)
+  🌐 **NextJS [Website](https://shuzzy.de) | [(Git Project)](https://github.com/RealShuzzy/shuzzyos-webserver)**
   
-  💸 React App [Nexarion-Finance](https://github.com/RealShuzzy/Nexarion-Finance)
+  💸 **React App [Nexarion-Finance](https://github.com/RealShuzzy/Nexarion-Finance)**
 
   <br/>
 
-  ![RealShuzzy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Stats -->
 
@@ -54,7 +54,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <img
         src="https://github-readme-stats.vercel.app/api?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&count_private=true"
-        alt="RealShuzzy's Stats"
+        alt="GitHub Stats"
       />
     </td>
     <td width="50%">
