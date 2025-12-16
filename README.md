@@ -67,6 +67,38 @@
   <!--Contribution Graph-->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealShuzzy&bg_color=282a36&&color=ffffff&line=dc6386&point=79dafa&area=false&hide_border=true" border-radius="15">
 
+<br/>
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+
+<div align="center">
+  
+  <a href="mailto:samirvonhansen2016@gmail.com" target="_blank">
+    <img src="./gmail.png" width=50 height=50 alt="samirvonhansen2016@gmail.com" style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="https://x.com/RealShuzzy" target="_blank">
+    <img src="./twitter.png" width=50 height=50 alt="RealShuzzy" style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="https://www.instagram.com/realshuzzy" target="_blank">
+    <img src="./instagram.png" width=50 height=50 alt="realshuzzy" style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="https://www.github.com/RealShuzzy" target="_blank">
+    <img src="./github.png" width=50 height=50 alt="RealShuzzy" style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/samir-von-hansen-189a70260/" target="_blank">
+    <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  
+</div>
+
+<br/>
+
 <!-- Footer -->
 
 <div>
