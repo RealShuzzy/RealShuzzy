@@ -1,8 +1,10 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#bg93f9"  />
+</div>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Firacode+Nerd+Font&size=35&color=bd93f9&center=true&vCenter=true&width=1000&pause=1000&lines=👋+Hello+There!+I'm+Shuzzy" />
 </h3>
-
----
 
  💧 **Developer** and **Maintainer** of [**ShuzzyOS**](https://shuzzy.de)
 
@@ -24,8 +26,10 @@
 
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealShuzzy&theme=dracula)
 
----
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Firacode+Nerd+Font&size=35&color=bd93f9&center=true&vCenter=true&width=1000&pause=1000&lines=Thank+you+for+visiting!+👍" />
 </h3>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#bg93f9"  />
+</div>
