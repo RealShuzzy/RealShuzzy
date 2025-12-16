@@ -75,6 +75,10 @@
 
 <div align="center">
   
+  <a href="https://discord.com/users/440585892655005698" target="_blank">
+    <img src="./discord.png" width=50 height=50 alt="Discord"/>
+  </a>
+  
   <a href="mailto:samirvonhansen2016@gmail.com" target="_blank">
     <img src="./gmail.png" width=50 height=50 alt="samirvonhansen2016@gmail.com"/>
   </a>
