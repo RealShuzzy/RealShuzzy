@@ -40,7 +40,7 @@
 
   <br/>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact&title_color=bd93f9)
 
 <!-- Stats -->
 
@@ -53,19 +53,19 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&count_private=true&title_color=bd93f9"
         alt="GitHub Stats"
       />
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RealShuzzy&theme=dracula&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RealShuzzy&theme=dracula&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&title_color=bd93f9" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
 
   <!--Contribution Graph-->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealShuzzy&bg_color=282a36&&color=ffffff&line=dc6386&point=79dafa&area=false&hide_border=true" border-radius="15">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RealShuzzy&bg_color=282a36&&color=ffffff&line=bd93f9&point=79dafa&area=false&hide_border=true" border-radius="15">
 
 <br/>
 
