@@ -59,7 +59,7 @@
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <img src="https://streak-stats.demolab.com?user=RealShuzzy&theme=dracula&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&title_color=bd93f9" alt="GitHub Streak" />
+      <img src="http://shuzzy.de:9000?user=RealShuzzy&theme=dracula&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&ring=BD93F9&sideLabels=BD93F9&sideNums=BD93F9" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
