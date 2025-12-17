@@ -71,7 +71,7 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">💬 Cᴏɴᴛᴀᴄᴛ Mᴇ 💬 </h2>
 
 <div align="center">
   
