@@ -76,23 +76,23 @@
 <div align="center">
   
   <a href="https://discord.com/users/440585892655005698" target="_blank">
-    <img src="./discord.png" width=50 height=50 alt="Discord"/>
+    <img src="./discord.png" width=50 height=50 alt="Discord: 40585892655005698 (Shuzzy)"/>
   </a>
   
   <a href="https://www.github.com/RealShuzzy" target="_blank">
-    <img src="./github.png" width=50 height=50 alt="RealShuzzy"/>
+    <img src="./github.png" width=50 height=50 alt="GitHub: RealShuzzy"/>
   </a>
   
   <a href="https://x.com/RealShuzzy" target="_blank">
-    <img src="./twitter.png" width=50 height=50 alt="RealShuzzy"/>
+    <img src="./x.png" width=50 height=50 alt="X: RealShuzzy"/>
   </a>
 <!-- 
   <a href="https://www.linkedin.com/in/samir-von-hansen-189a70260/" target="_blank">
-    <img src="./linkedin.png" width=50 height=50 alt="linkedin"/>
+    <img src="./linkedin.png" width=50 height=50 alt="LinkedIn: Samir von Hansen"/>
   </a>
 --> 
   <a href="mailto:samirvonhansen2016@gmail.com" target="_blank">
-    <img src="./gmail.png" width=50 height=50 alt="samirvonhansen2016@gmail.com"/>
+    <img src="./gmail.png" width=50 height=50 alt="Email: samirvonhansen2016@gmail.com"/>
   </a>
   
 </div>
