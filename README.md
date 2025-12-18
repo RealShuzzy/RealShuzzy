@@ -32,7 +32,7 @@
   
   🐧 **Linux Distro [ShuzzyOS](https://github.com/RealShuzzy/ShuzzyOS)**
   
-  📦 **Linux Packages & Repository [Repository](https://github.com/RealShuzzy/shuzzyos-arch-repo)**
+  📦 **Linux Packages & [Repository](https://github.com/RealShuzzy/shuzzyos-arch-repo)**
   
   🌐 **NextJS [Website](https://shuzzy.de) | [(Git Project)](https://github.com/RealShuzzy/shuzzyos-webserver)**
   
