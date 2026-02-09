@@ -52,13 +52,10 @@
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>  
-      ![Stats](./profile/stats.svg)  
-      <!--
       <img
-        src="https://github-readme-stats.vercel.app/api?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&count_private=true&title_color=bd93f9"
+        src="http://shuzzy.de:9001/username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&count_private=true&title_color=bd93f9"
         alt="GitHub Stats"
       />
-      -->
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
