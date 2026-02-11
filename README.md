@@ -42,8 +42,6 @@
 
   <img src="http://shuzzy.de:9001/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact&title_color=bd93f9" alt="Top Languages" />
 
-  <br/>
-
 <!-- Stats -->
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2> 
