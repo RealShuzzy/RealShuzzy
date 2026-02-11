@@ -40,7 +40,7 @@
 
   <br/>
 
-  ![Top Languages](https://shuzzy.de:9001/api/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact&title_color=bd93f9)
+  <img src="https://shuzzy.de:9001/api/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact&title_color=bd93f9" alt="Top Languages" />
 
 <!-- Stats -->
 
