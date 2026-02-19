@@ -40,7 +40,7 @@
 
   <br/>
 
-  <img src="http://shuzzy.de:9001/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact&title_color=bd93f9" alt="Top Languages" />
+  <img src="http://shuzzy.de:10000/top-langs/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&layout=compact&title_color=bd93f9" alt="Top Languages" />
 
 <!-- Stats -->
 
@@ -53,7 +53,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>  
       <img
-        src="http://shuzzy.de:9001/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&count_private=true&title_color=bd93f9"
+        src="http://shuzzy.de:10001/?username=RealShuzzy&theme=dracula&show_icons=true&hide_border=true&count_private=true&title_color=bd93f9"
         alt="GitHub Stats"
       />
     </td>
